@@ -96,11 +96,53 @@ div .Contact:hover{
     padding-top: 50px;
 }
 
-.img{
-    display: flex;
-    justify-content: space-between;
+.img1{
     width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 500px;
 }
+
+.img2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 480px;
+}
+
+.img3{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: absolute;
+    right: 250px;
+}
+
+.img4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 0px;
+}
+
+.img5{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    
+}
+
+.img6{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+
 .container_Latest_work h3{
     text-transform: uppercase;
     font-size: 16px;
@@ -111,11 +153,6 @@ div .Contact:hover{
 h3{
     position: absolute;
     left: 800px;
-    top: 400px;
+    top: 430px;
 }
 
-.container_Latest_work .img span span{
-    display: block;
-    text-align: center;
-    margin-top: 30px;
-}
