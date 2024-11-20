@@ -97,9 +97,7 @@ div .Contact:hover{
 }
 
 .img1{
-    width: 100%;
     display: flex;
-    justify-content: center;
     position: absolute;
     left: 500px;
 }
@@ -109,23 +107,22 @@ div .Contact:hover{
     display: flex;
     justify-content: center;
     position: absolute;
-    right: 480px;
+    right: 70px;
 }
 
 .img3{
     display: flex;
     width: 100%;
-    justify-content: center;
+    justify-content: right;
     position: absolute;
-    right: 250px;
+    right: 630px;
 }
 
 .img4{
-    width: 100%;
     display: flex;
-    justify-content: center;
     position: absolute;
-    right: 0px;
+    bottom: 50px;
+    left: 500px;
 }
 
 .img5{
@@ -133,14 +130,17 @@ div .Contact:hover{
     display: flex;
     justify-content: center;
     position: absolute;
-    
+    bottom: 50px;
+    right: 70px;
 }
 
 .img6{
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     position: absolute;
+    bottom: 50px;
+    right: 630px;
 }
 
 .container_Latest_work h3{
@@ -156,3 +156,191 @@ h3{
     top: 430px;
 }
 
+div .text1{
+    position: absolute;
+    bottom: -40px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .text2{
+    position: absolute;
+    bottom: -40px;
+    right: 925px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .text3{
+    position: absolute;
+    bottom: -40px;
+    right: 80px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .text4{
+    position: absolute;
+    bottom: -40px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+
+}
+
+div .text5{
+    position: absolute;
+    bottom: -40px;
+    right: 925px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .text6{
+    position: absolute;
+    bottom: -40px;
+    right: 80px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+.kartinka1{
+    position: absolute;
+    bottom: -20px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.kartinka2{
+    position: absolute;
+    bottom: -20px;
+    right: 925px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.kartinka3{
+    position: absolute;
+    bottom: -20px;
+    right: 80px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.kartinka4{
+    position: absolute;
+    bottom: -20px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.kartinka5{
+    position: absolute;
+    bottom: -20px;
+    right: 925px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.kartinka6{
+    position: absolute;
+    bottom: -20px;
+    right: 80px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.chart{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    left: 500px;
+    bottom: -250px;
+}
+
+.Prodyct{
+    position: absolute;
+    bottom: -20px;
+    left: 15px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.Anima1{
+    position: absolute;
+    bottom: -95px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #2d2d2d;
+}
+
+.Anima1{
+    width: 100%;
+    text-align: center;
+}
+
+.chart1{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    left: 775px;
+    bottom: -250px;
+}
+
+.Anima2{
+    position: absolute;
+    bottom: -95px;
+    left: -50px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #2d2d2d;
+}
+
+.Anima2{
+    width: 100%;
+    text-align: center;
+}
+
+.Visual{
+    position: absolute;
+    bottom: -20px;
+    left: 15px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
