@@ -322,7 +322,7 @@ div .text6{
 .Anima2{
     position: absolute;
     bottom: -95px;
-    left: -50px;
+    left: -0px;
     text-transform: uppercase;
     font-size: 10px;
     font-weight: 400;
@@ -343,4 +343,64 @@ div .text6{
     font-size: 14px;
     font-weight: 600;
     color: #2d2d2d;
+}
+
+.chart2{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    left: 1050px;
+    bottom: -250px;
+}
+
+.Anima3{
+    position: absolute;
+    bottom: -95px;
+    left: -0px;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #2d2d2d;
+}
+
+.Anima3{
+    width: 100%;
+    text-align: center;
+}
+
+.Art{
+    position: absolute;
+    bottom: -20px;
+    left: 15px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.Kart1{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    bottom: -450px;
+    left: 400px;
+}
+
+.Prodyct-Design{
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.AnimaApp{
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    color: #2d2d2d;
+    position: absolute;
+    bottom: -40px;
+    left: 60px;
 }
