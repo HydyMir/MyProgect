@@ -296,18 +296,16 @@ div .text6{
 }
 
 .Anima1{
+    display: flex;
     position: absolute;
     bottom: -95px;
-    left: 0px;
+    right: -30px;
     text-transform: uppercase;
     font-size: 10px;
     font-weight: 400;
     line-height: 1.8;
     color: #2d2d2d;
-}
-
-.Anima1{
-    width: 100%;
+    width: 200px;
     text-align: center;
 }
 
@@ -320,18 +318,16 @@ div .text6{
 }
 
 .Anima2{
+    display: flex;
     position: absolute;
     bottom: -95px;
-    left: -0px;
+    right: -30px;
     text-transform: uppercase;
     font-size: 10px;
     font-weight: 400;
     line-height: 1.8;
     color: #2d2d2d;
-}
-
-.Anima2{
-    width: 100%;
+    width: 200px;
     text-align: center;
 }
 
@@ -354,18 +350,16 @@ div .text6{
 }
 
 .Anima3{
+    display: flex;
     position: absolute;
     bottom: -95px;
-    left: -0px;
+    right: -30px;
     text-transform: uppercase;
     font-size: 10px;
     font-weight: 400;
     line-height: 1.8;
     color: #2d2d2d;
-}
-
-.Anima3{
-    width: 100%;
+    width: 200px;
     text-align: center;
 }
 
@@ -388,6 +382,7 @@ div .text6{
 }
 
 .Prodyct-Design{
+    display: flex;
     margin-left: 20px;
     text-transform: uppercase;
     font-size: 14px;
@@ -396,11 +391,236 @@ div .text6{
 }
 
 .AnimaApp{
+    display: flex;
     text-transform: uppercase;
     font-size: 10px;
     font-weight: 400;
     color: #2d2d2d;
     position: absolute;
-    bottom: -40px;
+    bottom: -20px;
     left: 60px;
+    text-align: left;
+    width: 300px;
+    line-height: 1.8;
+}
+
+.Kart3{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    bottom: -450px;
+    left: 1000px;
+}
+
+.Visual-Design{
+    display: flex;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.AnimaApp1{
+    display: flex;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    color: #2d2d2d;
+    position: absolute;
+    bottom: -20px;
+    left: 60px;
+    text-align: left;
+    width: 300px;
+    line-height: 1.8;
+}
+
+.Kart2{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    bottom: -550px;
+    left: 400px;
+}
+
+.AnimaApp2{
+    display: flex;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    color: #2d2d2d;
+    position: absolute;
+    bottom: -20px;
+    left: 60px;
+    text-align: left;
+    width: 300px;
+    line-height: 1.8;
+}
+
+.Art-Direction{
+    display: flex;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.Kart4{
+    display: flex;
+    justify-content: left;
+    position: absolute;
+    bottom: -550px;
+    left: 1000px;
+}
+
+.AnimaApp3{
+    display: flex;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 400;
+    color: #2d2d2d;
+    position: absolute;
+    bottom: -20px;
+    left: 60px;
+    text-align: left;
+    width: 300px;
+    line-height: 1.8;
+}
+
+.UIUX{
+    display: flex;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d2d2d;
+}
+
+.container_Latest_work2{
+    padding-top: 50px;
+}
+
+.Kartinka1{
+    display: flex;
+    position: absolute;
+    left: 500px;
+    bottom: -800px;
+}
+
+.Kartinka2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 70px;
+    bottom: -800px;
+}
+
+.Kartinka3{
+    display: flex;
+    width: 100%;
+    justify-content: right;
+    position: absolute;
+    right: 630px;
+     bottom: -800px;   
+}
+
+.Kartinka4{
+    display: flex;
+    position: absolute;
+    bottom: -1050px;
+    left: 500px;
+}
+
+.Kartinka5{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: -1050px;
+    right: 70px;
+}
+
+.Kartinka6{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    position: absolute;
+    bottom: -1050px;
+    right: 630px;
+}
+
+.container_Latest_work h3{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    color:#2d2d2d;
+}
+
+h3{
+    position: absolute;
+    left: 800px;
+    top: 430px;
+}
+
+div .Text1{
+    position: absolute;
+    bottom: -40px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .Text2{
+    position: absolute;
+    bottom: -40px;
+    right: 925px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .Text3{
+    position: absolute;
+    bottom: -40px;
+    right: 80px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .Text4{
+    position: absolute;
+    bottom: -40px;
+    left: 0px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+
+}
+
+div .Text5{
+    position: absolute;
+    bottom: -40px;
+    right: 925px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
+}
+
+div .Text6{
+    position: absolute;
+    bottom: -40px;
+    right: 80px;
+    text-transform: uppercase;
+    font-size: 9px;
+    font-weight: 400;
+    color: #2d2d2d;
 }
